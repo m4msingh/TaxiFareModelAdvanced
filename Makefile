@@ -87,7 +87,7 @@ REGION=europe-north1
 PYTHON_VERSION=3.7
 FRAMEWORK=scikit-learn
 RUNTIME_VERSION=1.15
-PACKAGE_NAME=TaxiFareModel
+PACKAGE_NAME=TaxiFareModelAdvanced
 FILENAME=trainer
 JOB_NAME=taxi_fare_training_pipeline_$(shell date +'%Y%m%d_%H%M%S')
 # model folder name (will contain the folders for all trained model versions)
